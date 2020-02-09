@@ -6,11 +6,11 @@
 #    By: hbrulin <hbrulin@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/11/08 15:50:08 by hbrulin           #+#    #+#              #
-#    Updated: 2020/02/09 13:49:46 by hbrulin          ###   ########.fr        #
+#    Updated: 2020/02/09 13:51:41 by hbrulin          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = libftprintffd.a
+NAME = libftprintf.a
 
 SRCS =	ft_printf_fd.c ft_struct.c ft_conversion.c ft_flags.c ft_output.c \
 		ft_precision.c ft_width.c ft_zero.c ft_conversion_pt2.c \
